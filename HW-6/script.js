@@ -1,1 +1,0 @@
-let commet = 19

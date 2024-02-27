@@ -23,9 +23,7 @@ car.color = "gray";
 
 delete car.model;
 
-// Задача №6, Создал метод !
-
-// Тут car.model вернет нам undefaind потомушто мы удалили ключевое слова model !!!!!!!
+// Задача №6, Создал метод !n // Тут car.model вернет нам undefaind потомушто мы удалили ключевое слова model !!!!!!!
 
 function displayInfo() {
     return `Car: ${car.brand}  Модель: ${car.model}  Year:${car.year}`
