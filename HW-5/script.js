@@ -108,7 +108,3 @@ function createAnimal(type, sound) {
     };
 }
 console.log(createAnimal('cat', 'meow'));
-
-
-
-
