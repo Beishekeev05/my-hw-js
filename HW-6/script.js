@@ -52,7 +52,7 @@ let product2 = {
     name: "ball",
     price: 2000
 }
-let isSameProduct = (a, b, c) => {
+let isSameProduct = (a, b) => {
     return a.name === b.name && a.price === b.price;
 }
 console.log(isSameProduct(product1, product2));
