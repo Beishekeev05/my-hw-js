@@ -46,6 +46,7 @@ inputText.oninput = function () {
 
 //////////////// ДОМАШКА №4 KEYDOWN И KEYUYP
 
-
-
+const name = ['number', 'color']
+name[2]= 'age'
+console.warn(name)
 
