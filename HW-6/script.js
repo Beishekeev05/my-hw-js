@@ -83,7 +83,6 @@ button.addEventListener("click", () => {
     showParam(' Орел')
 });
 
-////
 
 let reshka = document.getElementById("reshka")
 let tag = document.getElementById("pteg")
