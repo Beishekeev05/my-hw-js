@@ -26,7 +26,7 @@ const products = [
     {
       id: 4,
       name: "Bitcoin",
-      image: "HW-24/images/Bitcoin.svg",
+      image: "HW-24/images/Money.svg",
       prise: 2000000,
       quantity: 1,
       priseInCart: 0,
